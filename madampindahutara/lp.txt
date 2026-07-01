@@ -32,7 +32,7 @@
     <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
     <title>MADAMTOTO – Pilihan Terbaik untuk Anak Muda Saat Ini 🚀</title>
     <meta name="description" content="MADAMTOTO hadir sebagai platform digital yang mengutamakan inovasi, kemudahan akses, dan pengalaman modern. Dengan tampilan yang menarik serta teknologi yang terus berkembang, MADAMTOTO menjadi pilihan bagi generasi muda yang menginginkan layanan cepat, praktis, dan nyaman.">
-   <link rel="canonical" href="https://tinyurl.com/jowopride">
+   <link rel="canonical" href="##$$##">
 	<link rel="amphtml" href="https://madamanakselatan.pages.dev/madampindahutara/amp/" />
     <link rel="alternate" hreflang="id-id" href="https://madamanakselatan.pages.dev/madampindahutara/amp/" />
     <link rel="alternate" href="https://madamanakselatan.pages.dev/madampindahutara/amp/" />
@@ -1514,7 +1514,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://tinyurl.com/jowopride">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://papi.madamresmi.com/daftar?ref_id=9e4b4f27">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
